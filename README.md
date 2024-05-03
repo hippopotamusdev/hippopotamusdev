@@ -1,10 +1,10 @@
 - 🐗 Hi, I’m @hippopotamus.dev
-- 🦛 I’m interested in creating minecraft servers, programming (python, (learning: java, kotlin.))
-- 🐽🐖🐷 I’m currently learning java, kotlin and more programming languages
-- 🐖 I’m looking to collaborate on brominemc.ru ( But I can't achieve that. )
-- 📫 How to reach me: discord: hippopotamus.dev vk: hippopotamus.dev
-- 😄 Pronouns: he/him/boar/pig/hippopotamus
-- ⚡ Fun fact: i love hippopotamuses
+- 🦛 I'm interested in creating Minecraft servers and programming (Python, learning Java, Kotlin).
+- 🐽 I'm currently learning Java, Kotlin and other programming languages.
+- 🐖I'm looking to collaborate on brominemc.ru, but I can't achieve that.
+- 📫 How to reach me: Discord: hippopotamus.dev, VK: hippopotamus.dev.
+- 😄 Pronouns: he/him/boar/pig/hippopotamus.
+- ⚡ Fun fact: I love hippopotamuses 
 
 <!---
 hippopotamusdev/hippopotamusdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
