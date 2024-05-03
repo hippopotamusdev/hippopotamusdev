@@ -1,7 +1,7 @@
 - 🐗 Hi, I’m @hippopotamus.dev
 - 🦛 I’m interested in creating minecraft servers, programming (python, (learning: java, kotlin.))
 - 🐽🐖🐷 I’m currently learning java, kotlin and more programming languages
-- 🐖 I’m looking to collaborate on brominemc 
+- 🐖 I’m looking to collaborate on brominemc.ru ( But I can't achieve that. )
 - 📫 How to reach me: discord: hippopotamus.dev vk: hippopotamus.dev
 - 😄 Pronouns: he/him/boar/pig/hippopotamus
 - ⚡ Fun fact: i love hippopotamuses
